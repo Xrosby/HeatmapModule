@@ -2,7 +2,7 @@
   "name": "heatmap",
   "version": "1.0.0",
   "description": "A tutorial walkthrough of heatmap.js",
-  "private":true,
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
