@@ -9,7 +9,8 @@
   "author": "Mads Norby",
   "license": "ISC",
   "dependencies": {
-    "heatmap.js": "^2.0.5"
+    "heatmap.js": "^2.0.5",
+    "leaflet-heatmap": "^1.0.0"
   },
   "devDependencies": {
     "webpack": "^4.41.2",
